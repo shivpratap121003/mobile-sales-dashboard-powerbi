@@ -50,7 +50,7 @@ This project presents an interactive Mobile Sales Dashboard built using Microsof
 
 
 ## 📥 Download Dashboard
-[Click here to view PDF](mobile-sales-dashboard.pdf)
+[Click here to view PDF](Mobile_Sales_Dashboard.pdf)
 ---
 
 ⭐ If you like this project, feel free to give it a star!
