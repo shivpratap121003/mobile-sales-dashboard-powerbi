@@ -42,6 +42,15 @@ This project presents an interactive Mobile Sales Dashboard built using Microsof
 * Data visualization techniques
 * Business insight generation
 
+  ## 📌 Business Insights
+- Highest sales observed in Mumbai
+- UPI is the most used payment method
+- Peak sales month: March
+
+
+
+## 📥 Download Dashboard
+[Click here to view PDF](mobile-sales-dashboard.pdf)
 ---
 
 ⭐ If you like this project, feel free to give it a star!
